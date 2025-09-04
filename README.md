@@ -1,2 +1,0 @@
-# med-hub
-Healthy Marketplace
